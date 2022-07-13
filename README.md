@@ -14,3 +14,6 @@ This function probably exists in RDFlib or something but I wanted to mess around
 ```
 
 File can be anywhere you want. 
+
+# Limitations
+* Currently turtle format only.
