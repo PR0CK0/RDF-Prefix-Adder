@@ -13,9 +13,7 @@ This function probably exists in RDFlib or something but I wanted to mess around
 [python / python3] prefadd.py [path/filename.ttl] [desired namespace (e.g., foaf)]
 ```
 
-File can be anywhere you want. 
-
-Resultant Turtle file would look like:
+File can be anywhere you want. Resultant Turtle file would look like:
 ```
 @prefix : <http://www.w3.org/ns/mls#> .
 @prefix mls: <http://www.w3.org/ns/mls#> .
