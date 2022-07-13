@@ -6,7 +6,6 @@ import re
 ### Give it a file and your wanted prefix ###
 ### And the program adds it into the file ###
 ### So you can reference it (for GraphDB) ###
-### The file MUST be in the same folder!! ###
 #############################################
 
 ### Command line args ###
