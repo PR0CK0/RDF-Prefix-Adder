@@ -6,7 +6,7 @@ This function probably exists in RDFlib or something but I wanted to mess around
 # Use
 * Make sure you have Python installed.
 * Save the file [prefadd.py](prefadd.py)
-* Open command window.
+* Open command window in the same folder.
 * Type the following:
 
 ```
