@@ -15,5 +15,13 @@ This function probably exists in RDFlib or something but I wanted to mess around
 
 File can be anywhere you want. 
 
+Resultant Turtle file would look like:
+```
+@prefix : <http://www.w3.org/ns/mls#> .
+@prefix mls: <http://www.w3.org/ns/mls#> .
+```
+
+Now, in GraphDB, you can use *mls:* to refer to anything in ML-Schema.
+
 # Limitations
 * Currently Turtle format only.
